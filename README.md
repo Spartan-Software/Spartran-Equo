@@ -1,4 +1,4 @@
-# Equo - TheNewWayToSave
+# Equo - TheNewWayToSave - By Spartan
 Need to store something that you need super securly? Super fast? Super reliable? Well you found just the thing!
 
 Lets say you need to store passwords.
